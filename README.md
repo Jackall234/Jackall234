@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Jackall234
-- 👀 I’m interested in artificial intelligence
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 Jackall234/Jackall234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
